@@ -40,10 +40,8 @@ To get started with the Nike Clone, follow these steps:
 
 Once the installation is complete, you can start the development server:
 
-    ```
-    npm run dev
-    ```
 
+    npm run dev
 
 
 This command will start the development server and open the application in your default web browser. You can now view and interact with the Nike Clone.
