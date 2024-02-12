@@ -23,7 +23,7 @@ To get started with the Nike Clone, follow these steps:
 2. Navigate to the project directory:
 
     ```
-    cd nike-clone
+    cd nike-clone-react-app
     ```
 
 3. Install dependencies using npm:
