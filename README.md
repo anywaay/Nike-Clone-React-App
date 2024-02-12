@@ -17,7 +17,7 @@ To get started with the Nike Clone, follow these steps:
 1. Clone the repository to your local machine:
 
     ```
-    git clone <repository_url>
+    git clone https://github.com/anywaay/nike-clone-react-app.git
     ```
 
 2. Navigate to the project directory:
