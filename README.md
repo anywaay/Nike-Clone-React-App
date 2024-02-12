@@ -55,12 +55,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 Please ensure that your pull request follows the project's coding conventions and style guide.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README to include any additional information specific to your project. Enjoy building your Nike Clone!
-
 
