@@ -1,4 +1,4 @@
-import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
+import { facebook, instagram, shieldTick, support, truckFast, twitter, linkedin } from "../assets/icons";
 import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
 
 export const navLinks = [
@@ -111,14 +111,15 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
+            { name: "mailtoayushtripathi@gmail.com", link: "mailto:mailtoayushtripathi@gmail.com" },
             { name: "+92554862354", link: "tel:+92554862354" },
         ],
     },
 ];
 
 export const socialMedia = [
-    { src: facebook, alt: "facebook logo" },
-    { src: twitter, alt: "twitter logo" },
-    { src: instagram, alt: "instagram logo" },
+    { href: "https://github.com/anywaay", src: facebook, alt: "github logo" },
+    { href: "https://twitter.com/a_nywaay", src: twitter, alt: "twitter logo" },
+    { href: "https://www.instagram.com/a.nywaay/", src: instagram, alt: "instagram logo" },
+    {href: "https://www.linkedin.com/in/ayush-tripathi-b17250257/", src: linkedin, alt: "linkedin logo"},
 ];

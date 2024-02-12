@@ -19,12 +19,16 @@ const Footer = () => {
         Nike store. Find Your perfect Size In Store. Get Rewards</p>
         <div className='flex items-center gap-5 mt-8 '>
           {socialMedia.map((icon) =>(
-            <div className='flex justify-center items-center w-12 h-12 bg-white rounded-full'>
+          <div className='flex justify-center items-center w-12 h-12 bg-white rounded-full'>
+            <a href={icon.href} target="_blank" rel="noopener noreferrer">
               <img 
                 src={icon.src}
-                alt={icon.alt} width={24} height={24}
+                alt={icon.alt} 
+                width={24} 
+                height={24}
               />
-            </div>
+            </a>
+          </div>
           ))}
         </div>
       </div>
@@ -36,7 +40,7 @@ const Footer = () => {
                     {section.links.map((link) =>(
                       <li className='mt-3 text-white-400 font-montserrat text-base leading-normal 
                       hover:text-slate-gray cursor-pointer' key={link.name}>
-                        <a> {link.name}</a>
+                        <a > {link.name}</a>
                       </li>
                     ))}
                   </ul>
