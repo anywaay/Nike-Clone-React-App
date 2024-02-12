@@ -40,3 +40,33 @@ To get started with the Nike Clone, follow these steps:
 
 Once the installation is complete, you can start the development server:
 
+    ```
+    npm run dev
+    ```
+
+
+
+This command will start the development server and open the application in your default web browser. You can now view and interact with the Nike Clone.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add some feature'`).
+5. Push to the branch (`git push origin feature/your-feature-name`).
+6. Create a new Pull Request.
+
+Please ensure that your pull request follows the project's coding conventions and style guide.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to customize this README to include any additional information specific to your project. Enjoy building your Nike Clone!
+
+
