@@ -40,7 +40,7 @@ Once the installation is complete, you can start the development server:
     npm run dev
 
 
-This command will start the development server and open the application in your default web browser. You can now view and interact with the Nike Clone.
+This command will start the development server and open the application in your default web browser. You can now view and interact with this react-app.
 
 ## Contributing
 
