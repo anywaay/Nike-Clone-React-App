@@ -1,11 +1,7 @@
-# React + Vite
-
-React + Vite App for Nike Clone 
-Your can check the app at: https://nike-clone-react-app.web.app/
-
 # Nike Clone
 
 This project is a Nike clone created using Vite and React. It aims to replicate the main features and design of the Nike website.
+Your can check the app at: https://nike-clone-react-app.web.app
 
 ## Table of Contents
 
